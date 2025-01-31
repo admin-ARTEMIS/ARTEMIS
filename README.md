@@ -1,4 +1,4 @@
-##Penning Trap Experiment
+ARTEMIS Experiment
 This repository contains documentation and initial setup configurations for operating a Penning Trap experiment. The experiment is divided into three phases:
 
 a) Ion Injection
