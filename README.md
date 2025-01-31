@@ -1,10 +1,11 @@
-Penning Trap Experiment
+##Penning Trap Experiment
 This repository contains documentation and initial setup configurations for operating a Penning Trap experiment. The experiment is divided into three phases:
 
-Ion Injection
-Ion Storage
-Measurement and Readout
-Devices and Usage
+a) Ion Injection
+b) Ion Storage
+c) Measurement and Readout
+
+#Devices and Usage
 PDT Switch (Stahl HV 1000, customized for ARTEMIS)
 
 Controls high-voltage pulsing required during ion injection.
