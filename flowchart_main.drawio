@@ -178,7 +178,7 @@
             <mxRectangle width="140" height="44" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fThtwUrrI2s_Vn2d46SL-106" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="fThtwUrrI2s_Vn2d46SL-103">
+        <mxCell id="fThtwUrrI2s_Vn2d46SL-106" value="BNC" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="fThtwUrrI2s_Vn2d46SL-103">
           <mxGeometry x="753" width="147" height="44" as="geometry">
             <mxRectangle width="147" height="44" as="alternateBounds" />
           </mxGeometry>
@@ -224,7 +224,7 @@
             <mxRectangle width="140" height="43" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fThtwUrrI2s_Vn2d46SL-114" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="fThtwUrrI2s_Vn2d46SL-111">
+        <mxCell id="fThtwUrrI2s_Vn2d46SL-114" value="D-sub (DC-37) / banana socket" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="fThtwUrrI2s_Vn2d46SL-111">
           <mxGeometry x="753" width="147" height="43" as="geometry">
             <mxRectangle width="147" height="43" as="alternateBounds" />
           </mxGeometry>
